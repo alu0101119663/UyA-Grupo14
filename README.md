@@ -14,5 +14,7 @@ Luciano Sekulic Gregoris - alu0101022239@ull.edu.es
 
 ## [Seminario 1 - DCU](https://github.com/alu0101119663/UyA-Grupo14/tree/main/Seminarios/Seminario%201)
 https://docs.google.com/document/d/11VHYKq_7kzw-yxH_Q_99B4TBAMzPE8Qm/edit
+Ánimo Lucho!
+
 
 # Prácticas
