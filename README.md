@@ -12,6 +12,6 @@ Luciano Sekulic Gregoris - alu0101022239@ull.edu.es
 ----------------------------------
 # Seminarios
 
-## [Seminario 1](https://github.com/alu0101119663/UyA-Grupo14/tree/main/Seminarios/Seminario%201)
+## [Seminario 1 - DCU](https://github.com/alu0101119663/UyA-Grupo14/tree/main/Seminarios/Seminario%201)
 
 # Prácticas
