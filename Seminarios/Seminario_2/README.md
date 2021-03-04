@@ -8,5 +8,8 @@ En este seminario se utilizará el navegador [Lynx](https://en.wikipedia.org/wik
 
 Dos comañeros utilizarán una extensión cada uno y los otros dos irán describiendo paso a paso los pasos que están realizando.
 
+###
+
 Vídeo: https://drive.google.com/file/d/1ZjokQwcpYTe4FSOYKA8ICYuIWJOUpxre/view?usp=sharing
+
 Resúmen: https://drive.google.com/file/d/1-qoG7fn2J4dAOrUKP7vTt3OzsK3UFOel/view?usp=sharing
