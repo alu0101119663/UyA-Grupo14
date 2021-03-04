@@ -1,21 +1,12 @@
 # UyA-Grupo14
 
-## Participantes
-Diego Díaz Fernández - alu0101130026@ull.edu.es
+## Seminario 2: Uso de la web por personas con disfuncionalidad.
 
-Hugo Fernández Solís - alu0101112664@ull.edu.es
+https://campusingenieriaytecnologia.ull.es/mod/assign/view.php?id=288373
 
-Jacobo Labrador González - alu0101119663@ull.edu.es
+En este seminario se utilizará el navegador [Lynx](https://en.wikipedia.org/wiki/Lynx_(web_browser) y la extensión de Chrome [ChromeVox](https://chrome.google.com/webstore/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn?hl=es).
 
-Luciano Sekulic Gregoris - alu0101022239@ull.edu.es
+Dos comañeros utilizarán una extensión cada uno y los otros dos irán describiendo paso a paso los pasos que están realizando.
 
-----------------------------------
-# Seminarios
-
-## [Seminario 1 - DCU](https://github.com/alu0101119663/UyA-Grupo14/tree/main/Seminarios/Seminario%201)
-https://docs.google.com/document/d/11VHYKq_7kzw-yxH_Q_99B4TBAMzPE8Qm/edit
-
-## **¡Ánimo Lucho!**
-
-
-# Prácticas
+### Vídeo: https://drive.google.com/file/d/1ZjokQwcpYTe4FSOYKA8ICYuIWJOUpxre/view?usp=sharing
+### Resúmen: https://drive.google.com/file/d/1-qoG7fn2J4dAOrUKP7vTt3OzsK3UFOel/view?usp=sharing
